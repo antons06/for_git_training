@@ -1,2 +1,3 @@
 contents
 add one line
+line 3
